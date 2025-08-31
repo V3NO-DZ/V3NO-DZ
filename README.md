@@ -1,6 +1,6 @@
 # Hi there, I'm V3NO 👋  
 
-💻 Web Developer Student | 🚀 Aspiring Frontend Engineer  
+💻 Full-Stack Developer | Node.js | SQL & NoSQL Databases | 🚀 Building Scalable & High-Performance Web Applications 
 
 ---
 
